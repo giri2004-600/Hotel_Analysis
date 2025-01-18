@@ -20,7 +20,7 @@ The project reveals various business insights such as customer behavior trends, 
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/BhuvanKalyanGV/Hospitality_analysis.git
+   https://github.com/giri2004-600/Hotel_Analysis.git .
 2. Install the required Python libraries:
    pip install pandas matplotlib
 3. Place the Excel data files in the data directory (or the specified directory).
